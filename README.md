@@ -1,4 +1,4 @@
-## Olá! Eu sou Alison Manarin Vizoni, graduando no Senac Florianópolis em ADS.
+## Hello! My name is Alison Manarin Vizoni and I work at Caleta Gaming.
 
 <div align="center">
   <a href="https://github.com/Alison-Vizoni">
