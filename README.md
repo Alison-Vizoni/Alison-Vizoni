@@ -7,12 +7,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/redis-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/pycharm-plain-wordmark.svg?size=128&color=currentColor" />
 </div>
 
 ## 
